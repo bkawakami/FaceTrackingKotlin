@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BancoPan Facetracker</string>
+    <string name="permission_camera_rationale">Camera</string>
+    <string name="no_camera_permission">Sem permissao</string>
+    <string name="ok">OK</string>
+
+
+</resources>
