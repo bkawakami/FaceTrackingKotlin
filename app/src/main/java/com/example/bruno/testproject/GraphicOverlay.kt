@@ -8,10 +8,9 @@ import android.content.Context
 import android.graphics.Canvas
 import android.util.AttributeSet
 import android.view.View
-
+import com.example.bruno.testproject.GraphicOverlay.Graphic
 import com.google.android.gms.vision.CameraSource
-
-import java.util.HashSet
+import java.util.*
 
 /**
  * A view which renders a series of custom graphics to be overlayed on top of an associated preview

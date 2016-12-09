@@ -1,15 +1,10 @@
 package com.example.bruno.testproject
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.blundell.woody.Woody
-import com.blundell.woody.core.FaceDetectionCamera
-import android.R.string.cancel
-import android.media.FaceDetector
+import android.support.v7.app.AppCompatActivity
 import android.util.Log
 import android.widget.Toast
-import com.blundell.woody.Woody.onCreateMonitor
-
+import com.blundell.woody.Woody
 
 
 class MainActivity : AppCompatActivity(), Woody.ActivityMonitorListener {
